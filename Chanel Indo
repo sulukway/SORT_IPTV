@@ -5,10 +5,10 @@ http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 http://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MNC" group-title="LOKAL",MNC
 http://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GLOBAL" group-title="LOKAL",GLOBALTV
-http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="INEWS" group-title="LOKAL",INEWS
 http://lihattv.com/?play=43107
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBAL" group-title="LOKAL",GLOBALTV
+http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SCTV" group-title="LOKAL",SCTV
 http://lihattv.com/?play=43401
 #EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR" group-title="LOKAL",INDOSIAR
@@ -77,6 +77,7 @@ http://lihattv.com/?play=43361
 http://lihattv.com/?play=43394
 #EXTINF:-1 tvg-ID="" tvg-name="THE INDONESIA CHANNEL" group-title="LOKAL",THE INDONESIA CHANNEL
 http://lihattv.com/?play=43307
+
 #EXTINF:-1 tvg-ID="" tvg-name="MYTV" group-title="SPORT",MYTV
 http://103.242.13.90:5555/udp/239.4.1.56:10000
 #EXTINF:-1 tvg-ID="" tvg-name="CTN" group-title="SPORT",CTN
@@ -103,6 +104,7 @@ http://lihattv.com/?play=43355
 http://lihattv.com/?play=43422
 #EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT HK" group-title="SPORT",FOX SPORT HK
 http://lihattv.com/?play=43359
+
 #EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILY MOVIES" group-title="MOVIE",FOX FAMILY MOVIES
 http://lihattv.com/?play=43352
 #EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION FAMILY" group-title="MOVIE",FOX ACTION MOVIES
@@ -111,7 +113,7 @@ http://lihattv.com/?play=43351
 http://103.242.13.90:5555/udp/239.4.1.72:10000
 #EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" group-title="MOVIE",FOX MOVIES PREMIER
 http://103.242.13.90:5555/udp/239.4.1.84:10000
-#EXTINF:0,STAR WORLD HD
+#EXTINF:-1 tvg-ID="" tvg-name="STAR" group-title="MOVIE",STAR WORLD HD
 http://103.242.13.90:5555/udp/239.4.1.82:10000
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" group-title="MOVIE",FOX HD
 http://103.242.13.90:5555/udp/239.4.1.83:10000
@@ -145,6 +147,7 @@ http://lihattv.com/?play=43413
 http://lihattv.com/?play=43208
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" group-title="MOVIE",FOX
 http://lihattv.com/?play=43346
+
 #EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" group-title="NATURE",NATIONAL GEOGRAPHIC
 http://103.242.13.90:5555/udp/239.4.1.61:10000
 #EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" group-title="NATURE",NAT GEO WILD
@@ -153,6 +156,7 @@ http://103.242.13.90:5555/udp/239.4.1.62:10000
 http://lihattv.com/?play=43404
 #EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY" group-title="NATURE",DISCOVERY WORLD HD
 http://103.242.13.90:5555/udp/239.4.1.20:10000
+
 #EXTINF:-1 tvg-ID="" tvg-name="SAUDI TV" group-title="LAINNYA",SAUDI TV
 http://lihattv.com/?play=43364
 #EXTINF:-1 tvg-ID="" tvg-name="CAPITAL TV" group-title="LAINNYA",CAPITAL TV
@@ -171,7 +175,7 @@ http://lihattv.com/?play=43295
 http://lihattv.com/?play=43128
 #EXTINF:-1 tvg-ID="" tvg-name="CCTV4" group-title="LAINNYA",CCTV4
 http://lihattv.com/?play=43403
-#EXTINF:-1 tvg-ID="" tvg-name="TV5MONDE" group-title="LAINNYA",TV5MONDE
+#EXTINF:-1 tvg-ID="" tvg-name="TV5MONDE" group-title="LAINNYA",TV5_MONDE
 http://lihattv.com/?play=43408
 #EXTINF:-1 tvg-ID="" tvg-name="TV3" group-title="LAINNYA",TV3 Asia
 http://103.242.13.90:5555/udp/239.4.1.214:10000
