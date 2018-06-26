@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="USEETV" group-title="LOKAL",USEETV SPORT
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RCTI" group-title="LOKAL",RCTI (by SulukWay)
 http://lihattv.com/?play=43104
 #EXTINF:-1 tvg-ID="" tvg-name="MNC" group-title="LOKAL",MNC
@@ -25,6 +27,10 @@ http://lihattv.com/?play=43402
 http://lihattv.com/?play=43393
 #EXTINF:-1 tvg-ID="" tvg-name="METRO TV" group-title="LOKAL",METRO TV
 http://lihattv.com/?play=43342
+#EXTINF:-1 tvg-ID="" tvg-name="CNN" group-title="LOKAL",CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BERITA_SATU" group-title="LOKAL",BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="RCTV" group-title="LOKAL",RCTV
 http://lihattv.com/?play=43254
 #EXTINF:-1 tvg-ID="" tvg-name="NIRWANA TV" group-title="LOKAL",NIRWANA TV
@@ -35,6 +41,8 @@ http://lihattv.com/?play=43263
 http://lihattv.com/?play=43272
 #EXTINF:-1 tvg-ID="" tvg-name="RTV" group-title="LOKAL",RTV
 http://lihattv.com/?play=43391
+#EXTINF:-1 tvg-ID="" tvg-name="TVMUH" group-title="LOKAL",TV_MUH
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
 #EXTINF:-1 tvg-ID="" tvg-name="ICTA TV" group-title="LOKAL",ICTA TV
 http://lihattv.com/?play=43310
 #EXTINF:-1 tvg-ID="" tvg-name="KLIK MUSIC" group-title="LOKAL",KLIK MUSIC
