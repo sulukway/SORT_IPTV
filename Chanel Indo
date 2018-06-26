@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI" group-title="LOKAL",RCTI
+http://lihattv.com/?play=43104
+#EXTINF:-1 tvg-ID="" tvg-name="MNC" group-title="LOKAL",MNC
+http://lihattv.com/?play=43106
+#EXTINF:-1 tvg-ID="" tvg-name="INEWS" group-title="LOKAL",INEWS
+http://lihattv.com/?play=43107
+#EXTINF:-1 tvg-ID="" tvg-name="SCTV" group-title="LOKAL",SCTV
+http://lihattv.com/?play=43401
+#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR" group-title="LOKAL",INDOSIAR
+http://lihattv.com/?play=43400
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS TV" group-title="LOKAL",TRANS TV
+http://lihattv.com/?play=43399
+#EXTINF:-1 tvg-ID="" tvg-name="TRANS 7" group-title="LOKAL",TRANS 7
+http://lihattv.com/?play=43398
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" group-title="LOKAL",ANTV
+http://lihattv.com/?play=43397
+#EXTINF:-1 tvg-ID="" tvg-name="NET" group-title="LOKAL",NET
+http://lihattv.com/?play=43396
+#EXTINF:-1 tvg-ID="" tvg-name="KOMPAS TV" group-title="LOKAL",KOMPAS TV
+http://lihattv.com/?play=43395
+#EXTINF:-1 tvg-ID="" tvg-name="TV ONE" group-title="LOKAL",TV ONE
+http://lihattv.com/?play=43402
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI" group-title="LOKAL",TVRI
+http://lihattv.com/?play=43393
+#EXTINF:-1 tvg-ID="" tvg-name="METRO TV" group-title="LOKAL",METRO TV
+http://lihattv.com/?play=43342
+#EXTINF:-1 tvg-ID="" tvg-name="RCTV" group-title="LOKAL",RCTV
+http://lihattv.com/?play=43254
+#EXTINF:-1 tvg-ID="" tvg-name="NIRWANA TV" group-title="LOKAL",NIRWANA TV
+http://lihattv.com/?play=43257
+#EXTINF:-1 tvg-ID="" tvg-name="JAWAPOS TV" group-title="LOKAL",JAWAPOS TV
+http://lihattv.com/?play=43263
+#EXTINF:-1 tvg-ID="" tvg-name="JTV" group-title="LOKAL",JTV
+http://lihattv.com/?play=43272
+#EXTINF:-1 tvg-ID="" tvg-name="RTV" group-title="LOKAL",RTV
+http://lihattv.com/?play=43391
+#EXTINF:-1 tvg-ID="" tvg-name="ICTA TV" group-title="LOKAL",ICTA TV
+http://lihattv.com/?play=43310
+#EXTINF:-1 tvg-ID="" tvg-name="KLIK MUSIC" group-title="LOKAL",KLIK MUSIC
+http://lihattv.com/?play=43211
+#EXTINF:-1 tvg-ID="" tvg-name="RBTV" group-title="LOKAL",RBTV
+http://lihattv.com/?play=43230
+#EXTINF:-1 tvg-ID="" tvg-name="JAMBI TV" group-title="LOKAL",JAMBI TV
+http://lihattv.com/?play=43233
+#EXTINF:-1 tvg-ID="" tvg-name="RODJA TV" group-title="LOKAL",RODJA TV
+http://lihattv.com/?play=43390
+#EXTINF:-1 tvg-ID="" tvg-name="PADANG TV" group-title="LOKAL",PADANG TV
+http://lihattv.com/?play=43239
+#EXTINF:-1 tvg-ID="" tvg-name="FILM INDO" group-title="LOKAL",FILM INDO
+http://lihattv.com/?play=43192
+#EXTINF:-1 tvg-ID="" tvg-name="BTV" group-title="LOKAL",BTV
+http://lihattv.com/?play=43251
+#EXTINF:-1 tvg-ID="" tvg-name="MADU TV" group-title="LOKAL",MADU TV
+http://lihattv.com/?play=43282
+#EXTINF:-1 tvg-ID="" tvg-name="JPNN TV" group-title="LOKAL",JPNN TV
+http://lihattv.com/?play=43275
+#EXTINF:-1 tvg-ID="" tvg-name="MNC NEWS" group-title="LOKAL",MNC NEWS
+http://lihattv.com/?play=43111
+#EXTINF:-1 tvg-ID="" tvg-name="MNC SHOP" group-title="LOKAL",MNC SHOP
+http://lihattv.com/?play=43421
+#EXTINF:-1 tvg-ID="" tvg-name="MNC LIFESTYLE" group-title="LOKAL",MNC LIFESTYLE
+http://lihattv.com/?play=43117
+#EXTINF:-1 tvg-ID="" tvg-name="CHANEL NEWS ASIA" group-title="LAINNYA",CHANEL NEWS ASIA
+http://lihattv.com/?play=43361
+#EXTINF:-1 tvg-ID="" tvg-name="ELSHINTA TV" group-title="LOKAL",ELSHINTA TV
+http://lihattv.com/?play=43394
+#EXTINF:-1 tvg-ID="" tvg-name="THE INDONESIA CHANNEL" group-title="LOKAL",THE INDONESIA CHANNEL
+http://lihattv.com/?play=43307
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 1" group-title="SPORT",FOX SPORT 1
+http://lihattv.com/?play=43353.m3u
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2" group-title="SPORT",FOX SPORT 2
+http://lihattv.com/?play=43354
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 3" group-title="SPORT",FOX SPORT 3
+http://lihattv.com/?play=43355
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" group-title="SPORT",TVRI SPORT
+http://lihattv.com/?play=43422
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT HK" group-title="SPORT",FOXX SPORT HK
+http://lihattv.com/?play=43359
+#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILY MOVIES" group-title="MOVIE",FOX FAMILY MOVIES
+http://lihattv.com/?play=43352
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION FAMILY" group-title="MOVIE",FOX ACTION MOVIES
+http://lihattv.com/?play=43351
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" group-title="MOVIE",FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" group-title="MOVIE",FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1 tvg-ID="" tvg-name="MY CINEMA" group-title="MOVIE",MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1 tvg-ID="" tvg-name="KIX" group-title="MOVIE",KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1 tvg-ID="" tvg-name="BLACK DIAMOND" group-title="MOVIE",BLACK DIAMOND
+http://lihattv.com/?play=43212
+#EXTINF:-1 tvg-ID="" tvg-name="GOLD DIAMONS" group-title="MOVIE",GOLD DIAMOND
+http://lihattv.com/?play=43221
+#EXTINF:-1 tvg-ID="" tvg-name="AVAVA DIAMOND" group-title="MOVIE",AVAVA DIAMOND
+http://lihattv.com/?play=43218
+#EXTINF:-1 tvg-ID="" tvg-name="RED DIAMOND" group-title="MOVIE",RED DIAMOND
+http://lihattv.com/?play=43224
+#EXTINF:-1 tvg-ID="" tvg-name="KOREA DRAMA" group-title="MOVIE",KOREA DRAMA
+http://lihattv.com/?play=43420
+#EXTINF:-1 tvg-ID="" tvg-name="K+" group-title="MOVIE",K+
+http://lihattv.com/?play=43343
+#EXTINF:-1 tvg-ID="" tvg-name="V CHANNEL" group-title="MOVIE",V CHANNEL
+http://lihattv.com/?play=43419
+#EXTINF:-1 tvg-ID="" tvg-name="THRILL" group-title="MOVIE",THRILL
+http://lihattv.com/?play=43415
+#EXTINF:-1 tvg-ID="" tvg-name="CELESTRIAL MOVIE" group-title="MOVIE",CELESTRIAL MOVIE
+http://lihattv.com/?play=43414
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP" group-title="MOVIE",ZEE BISOKOP
+http://lihattv.com/?play=43413
+#EXTINF:-1 tvg-ID="" tvg-name="AVAVA BOLYWOOD" group-title="MOVIE",AVAVA BOLYWOOD
+http://lihattv.com/?play=43208
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" group-title="MOVIE",FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" group-title="NATURE",NATIONAL GEOGRAPHIC
+http://lihattv.com/?play=43347
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" group-title="NATURE",NAT GEO WILD
+http://lihattv.com/?play=43348
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN DOCUMENTARY" group-title="NATURE",CGTN DOCUMENTARY
+http://lihattv.com/?play=43404
+#EXTINF:-1 tvg-ID="" tvg-name="SAUDI TV" group-title="LAINNYA",SAUDI TV
+http://lihattv.com/?play=43364
+#EXTINF:-1 tvg-ID="" tvg-name="CAPITAL TV" group-title="LAINNYA",CAPITAL TV
+http://lihattv.com/?play=43370
+#EXTINF:-1 tvg-ID="" tvg-name="DW TV" group-title="LAINNYA",DW TV
+http://lihattv.com/?play=43372
+#EXTINF:-1 tvg-ID="" tvg-name="ALJAZERA" group-title="LAINNYA",ALJAZERA
+http://lihattv.com/?play=43388
+#EXTINF:-1 tvg-ID="" tvg-name="KIDS TV" group-title="LAINNYA",KIDS TV
+http://lihattv.com/?play=43215
+#EXTINF:-1 tvg-ID="" tvg-name="STV4" group-title="LAINNYA",STV4
+http://lihattv.com/?play=43248
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO AWANI" group-title="LAINNYA",ASTRO AWANI
+http://lihattv.com/?play=43295
+#EXTINF:-1 tvg-ID="" tvg-name="TV9" group-title="LAINNYA",TV9
+http://lihattv.com/?play=43128
+#EXTINF:-1 tvg-ID="" tvg-name="CCTV4" group-title="LAINNYA",CCTV4
+http://lihattv.com/?play=43403
+#EXTINF:-1 tvg-ID="" tvg-name="TV5MONDE" group-title="LAINNYA",TV5MONDE
+http://lihattv.com/?play=43408
