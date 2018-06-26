@@ -78,12 +78,32 @@ http://lihattv.com/?play=43394
 #EXTINF:-1 tvg-ID="" tvg-name="THE INDONESIA CHANNEL" group-title="LOKAL",THE INDONESIA CHANNEL
 http://lihattv.com/?play=43307
 
+#EXTINF:0,SKY NET SPORTS 1 - SKY NET SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=211&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,SKY NET SPORTS 2 - SKY NET SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=212&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,SKY NET SPORTS 3 - SKY NET SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=213&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,SKY NET SPORTS 4 - SKY NET SPORTS 4
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=214&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,SKY NET SPORTS 5 - SKY NET SPORTS 5
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=215&uid=2237&deviceMac=00:1A:79:4A:27:AB
+#EXTINF:0,SKY NET SPORTS 6 - SKY NET SPORTS 6
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=216&uid=2237&deviceMac=00:1A:79:4A:27:AB
 #EXTINF:-1 tvg-ID="" tvg-name="MYTV" group-title="SPORT",MYTV
 http://103.242.13.90:5555/udp/239.4.1.56:10000
 #EXTINF:-1 tvg-ID="" tvg-name="CTN" group-title="SPORT",CTN
 http://103.242.13.90:5555/udp/239.4.1.57:10000
 #EXTINF:-1 tvg-ID="" tvg-name="CNC" group-title="SPORT",CNC
 http://103.242.13.90:5555/udp/239.4.1.55:10000
+#EXTINF:-1 tvg-ID="" tvg-name="IRIB" group-title="SPORT",IRIB VARZESH
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ASTRO" group-title="SPORT",Astro Sport
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 #EXTINF:-1 tvg-ID="" tvg-name="TRUE" group-title="SPORT",True Vision
