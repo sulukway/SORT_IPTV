@@ -104,8 +104,10 @@ http://103.242.13.90:5555/udp/239.4.1.57:10000
 http://103.242.13.90:5555/udp/239.4.1.55:10000
 #EXTINF:-1 tvg-ID="" tvg-name="IRIB" group-title="SPORT",IRIB VARZESH
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO" group-title="SPORT",Astro Sport
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO" group-title="SPORT",ASTRO SPORT
 http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO" group-title="SPORT",ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TRUE" group-title="SPORT",True Vision
 http://103.242.13.90:5555/udp/239.4.1.149:10000
 #EXTINF:-1 tvg-ID="" tvg-name="FOX SP" group-title="SPORT",FOX SPORT
