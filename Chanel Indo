@@ -1,207 +1,412 @@
 #EXTM3U
-#EXTINF:-1, Suluk_Way™ ** USEETV SPORT
+
+#EXTINF:-1,Suluk® → USEETV SPORT
+
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-#EXTINF:-1, Suluk_Way™ ** RCTI
+
+#EXTINF:-1,Suluk® → RCTI
+
 http://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** MNC
+
+#EXTINF:-1,Suluk® → MNC
+
 http://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** INEWS
+
+#EXTINF:-1,Suluk® → INEWS
+
 http://lihattv.com/?play=43107
-#EXTINF:-1, Suluk_Way™ ** GLOBALTV
+
+#EXTINF:-1,Suluk® → GLOBALTV
+
 http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** SCTV
+
+#EXTINF:-1,Suluk® → SCTV
+
 http://lihattv.com/?play=43401
-#EXTINF:-1, Suluk_Way™ ** INDOSIAR
+
+#EXTINF:-1,Suluk® → INDOSIAR
+
 http://lihattv.com/?play=43400
-#EXTINF:-1, Suluk_Way™ ** TRANS TV
+
+#EXTINF:-1,Suluk® → TRANS TV
+
 http://lihattv.com/?play=43399
-#EXTINF:-1, Suluk_Way™ ** TRANS 7
+
+#EXTINF:-1,Suluk® → TRANS 7
+
 http://lihattv.com/?play=43398
-#EXTINF:-1, Suluk_Way™ ** ANTV
+
+#EXTINF:-1,Suluk® → ANTV
+
 http://lihattv.com/?play=43397
-#EXTINF:-1, Suluk_Way™ ** NET
+
+#EXTINF:-1,Suluk® → NET
+
 http://lihattv.com/?play=43396
-#EXTINF:-1, Suluk_Way™ ** KOMPAS TV
+
+#EXTINF:-1,Suluk® → KOMPAS TV
+
 http://lihattv.com/?play=43395
-#EXTINF:-1, Suluk_Way™ ** TV ONE
+
+#EXTINF:-1,Suluk® → TV ONE
+
 http://lihattv.com/?play=43402
-#EXTINF:-1, Suluk_Way™ ** TVRI
+
+#EXTINF:-1,Suluk® → TVRI
+
 http://lihattv.com/?play=43393
-#EXTINF:-1, Suluk_Way™ ** METRO TV
+
+#EXTINF:-1,Suluk® → METRO TV
+
 http://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** CNN_INDONESIA
+
+#EXTINF:-1,Suluk® → CNN_INDONESIA
+
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1, Suluk_Way™ ** BERITA_SATU_HD
+
+#EXTINF:-1,Suluk® → BERITA_SATU_HD
+
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1, Suluk_Way™ ** RCTV
+
+#EXTINF:-1,Suluk® → RCTV
+
 http://lihattv.com/?play=43254
-#EXTINF:-1, Suluk_Way™ ** TVRI SPORT
+
+#EXTINF:-1,Suluk® → TVRI SPORT
+
 http://lihattv.com/?play=43422
-#EXTINF:-1, Suluk_Way™ ** NIRWANA TV
+
+#EXTINF:-1,Suluk® → NIRWANA TV
+
 http://lihattv.com/?play=43257
-#EXTINF:-1, Suluk_Way™ ** JAWAPOS TV
+
+#EXTINF:-1,Suluk® → JAWAPOS TV
+
 http://lihattv.com/?play=43263
-#EXTINF:-1, Suluk_Way™ ** JTV
+
+#EXTINF:-1,Suluk® → JTV
+
 http://lihattv.com/?play=43272
-#EXTINF:-1, Suluk_Way™ ** RTV
+
+#EXTINF:-1,Suluk® → RTV
+
 http://lihattv.com/?play=43391
-#EXTINF:-1, Suluk_Way™ ** TV_MUHAMMADIYAH
+
+#EXTINF:-1,Suluk® → TV_MUHAMMADIYAH
+
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv
-#EXTINF:-1, Suluk_Way™ ** ICTA TV
+
+#EXTINF:-1,Suluk® → ICTA TV
+
 http://lihattv.com/?play=43310
-#EXTINF:-1, Suluk_Way™ ** KLIK MUSIC
+
+#EXTINF:-1,Suluk® → KLIK MUSIC
+
 http://lihattv.com/?play=43211
-#EXTINF:-1, Suluk_Way™ ** RBTV
+
+#EXTINF:-1,Suluk® → RBTV
+
 http://lihattv.com/?play=43230
-#EXTINF:-1, Suluk_Way™ ** RODJA TV
+
+#EXTINF:-1,Suluk® → RODJA TV
+
 http://lihattv.com/?play=43390
-#EXTINF:-1, Suluk_Way™ ** FILM INDO
+
+#EXTINF:-1,Suluk® → FILM INDO
+
 http://lihattv.com/?play=43192
-#EXTINF:-1, Suluk_Way™ ** BTV
+
+#EXTINF:-1,Suluk® → BTV
+
 http://lihattv.com/?play=43251
-#EXTINF:-1, Suluk_Way™ ** JPNN TV
+
+#EXTINF:-1,Suluk® → JPNN TV
+
 http://lihattv.com/?play=43275
-#EXTINF:-1, Suluk_Way™ ** MNC NEWS
+
+#EXTINF:-1,Suluk® → MNC NEWS
+
 http://lihattv.com/?play=43111
-#EXTINF:-1, Suluk_Way™ ** MNC SHOP
+
+#EXTINF:-1,Suluk® → MNC SHOP
+
 http://lihattv.com/?play=43421
-#EXTINF:-1, Suluk_Way™ ** MNC LIFESTYLE
+
+#EXTINF:-1,Suluk® → MNC LIFESTYLE
+
 http://lihattv.com/?play=43117
-#EXTINF:-1, Suluk_Way™ ** CHANEL NEWS ASIA
+
+#EXTINF:-1,Suluk® → CHANEL NEWS ASIA
+
 http://lihattv.com/?play=43361
-#EXTINF:-1, Suluk_Way™ ** ELSHINTA TV
+
+#EXTINF:-1,Suluk® → ELSHINTA TV
+
 http://lihattv.com/?play=43394
-#EXTINF:-1, Suluk_Way™ ** THE INDONESIA CHANNEL
+
+#EXTINF:-1,Suluk® → THE INDONESIA CHANNEL
+
 http://lihattv.com/?play=43307
 
-#EXTINF:-1, Suluk_Way™ ** BeIN MOVIES 1HD
+
+
+#EXTINF:-1,Suluk® → BeIN MOVIES 1HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/2388.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN MOVIES 2HD
+
+#EXTINF:-1,Suluk® → BeIN MOVIES 2HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/2459.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN MOVIES 3HD
+
+#EXTINF:-1,Suluk® → BeIN MOVIES 3HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/2617.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN MOVIES 4HD
+
+#EXTINF:-1,Suluk® → BeIN MOVIES 4HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/2835.ts
 
+
+
 #EXTINF:0,SKY NET SPORTS 1 - SKY NET SPORTS 1
+
 #EXTVLCOPT:network-caching=1000
+
 http://163.172.105.25:80/live?channelId=211&uid=2237&deviceMac=00:1A:79:4A:27:AB
+
 #EXTINF:0,SKY NET SPORTS 2 - SKY NET SPORTS 2
+
 #EXTVLCOPT:network-caching=1000
+
 http://163.172.105.25:80/live?channelId=212&uid=2237&deviceMac=00:1A:79:4A:27:AB
+
 #EXTINF:0,SKY NET SPORTS 3 - SKY NET SPORTS 3
+
 #EXTVLCOPT:network-caching=1000
+
 http://163.172.105.25:80/live?channelId=213&uid=2237&deviceMac=00:1A:79:4A:27:AB
+
 #EXTINF:0,SKY NET SPORTS 4 - SKY NET SPORTS 4
+
 #EXTVLCOPT:network-caching=1000
+
 http://163.172.105.25:80/live?channelId=214&uid=2237&deviceMac=00:1A:79:4A:27:AB
+
 #EXTINF:0,SKY NET SPORTS 5 - SKY NET SPORTS 5
+
 #EXTVLCOPT:network-caching=1000
+
 http://163.172.105.25:80/live?channelId=215&uid=2237&deviceMac=00:1A:79:4A:27:AB
+
 #EXTINF:0,SKY NET SPORTS 6 - SKY NET SPORTS 6
+
 #EXTVLCOPT:network-caching=1000
+
 http://163.172.105.25:80/live?channelId=216&uid=2237&deviceMac=00:1A:79:4A:27:AB
-#EXTINF:-1, Suluk_Way™ ** MYTV
+
+#EXTINF:-1,Suluk® → MYTV
+
 http://103.242.13.90:5555/udp/239.4.1.56:10000
-#EXTINF:-1, Suluk_Way™ ** CTN
+
+#EXTINF:-1,Suluk® → CTN
+
 http://103.242.13.90:5555/udp/239.4.1.57:10000
-#EXTINF:-1, Suluk_Way™ ** CNC
+
+#EXTINF:-1,Suluk® → CNC
+
 http://103.242.13.90:5555/udp/239.4.1.55:10000
-#EXTINF:-1, Suluk_Way™ ** IRIB VARZESH
+
+#EXTINF:-1,Suluk® → IRIB VARZESH
+
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1, Suluk_Way™ ** ASTRO SPORT
+
+#EXTINF:-1,Suluk® → ASTRO SPORT
+
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1, Suluk_Way™ ** ASTRO ARENA
+
+#EXTINF:-1,Suluk® → ASTRO ARENA
+
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1, Suluk_Way™ ** True Vision
+
+#EXTINF:-1,Suluk® → True Vision
+
 http://103.242.13.90:5555/udp/239.4.1.149:10000
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT
+
+#EXTINF:-1,Suluk® → FOX SPORT
+
 http://103.242.13.90:5555/udp/239.4.1.47:10000
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT 2
+
+#EXTINF:-1,Suluk® → FOX SPORT 2
+
 http://103.242.13.90:5555/udp/239.4.1.48:10000
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT 3 HD
+
+#EXTINF:-1,Suluk® → FOX SPORT 3 HD
+
 http://103.242.13.90:5555/udp/239.4.1.44:10000
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT 1
+
+#EXTINF:-1,Suluk® → FOX SPORT 1
+
 http://lihattv.com/?play=43353.m3u
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT 2
+
+#EXTINF:-1,Suluk® → FOX SPORT 2
+
 http://lihattv.com/?play=43354
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT 3
+
+#EXTINF:-1,Suluk® → FOX SPORT 3
+
 http://lihattv.com/?play=43355
-##EXTINF:-1, Suluk_Way™ ** FOX SPORT HK
+
+##EXTINF:-1,Suluk® → FOX SPORT HK
+
 http://lihattv.com/?play=43359
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILY MOVIES" group-title="MOVIE",FOX FAMILY MOVIES
+
+
+##EXTINF:-1,Suluk® → FOX FAMILY MOVIES
+
 http://lihattv.com/?play=43352
-#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION FAMILY" group-title="MOVIE",FOX ACTION MOVIES
+
+##EXTINF:-1,Suluk® → FOX ACTION MOVIES
+
 http://lihattv.com/?play=43351
-#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION" group-title="MOVIE",FOX ACTION MOVIES 2
+
+##EXTINF:-1,Suluk® → FOX ACTION MOVIES 2
+
 http://103.242.13.90:5555/udp/239.4.1.72:10000
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" group-title="MOVIE",FOX MOVIES PREMIER
+
+##EXTINF:-1,Suluk® → FOX MOVIES PREMIER
+
 http://103.242.13.90:5555/udp/239.4.1.84:10000
-#EXTINF:-1 tvg-ID="" tvg-name="STAR" group-title="MOVIE",STAR WORLD HD
+
+##EXTINF:-1,Suluk® → STAR WORLD HD
+
 http://103.242.13.90:5555/udp/239.4.1.82:10000
-#EXTINF:-1 tvg-ID="" tvg-name="FOX" group-title="MOVIE",FOX HD
+
+##EXTINF:-1,Suluk® → FOX HD
+
 http://103.242.13.90:5555/udp/239.4.1.83:10000
-#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" group-title="MOVIE",FOX LIFE
+
+##EXTINF:-1,Suluk® → FOX LIFE
+
 http://lihattv.com/?play=43342
-#EXTINF:-1 tvg-ID="" tvg-name="MY CINEMA" group-title="MOVIE",MY CINEMA
+
+##EXTINF:-1,Suluk® → MY CINEMA
+
 http://lihattv.com/?play=43427
-#EXTINF:-1 tvg-ID="" tvg-name="KIX" group-title="MOVIE",KIX
+
+##EXTINF:-1,Suluk® → KIX
+
 http://lihattv.com/?play=43340
+
 #EXTINF:-1 tvg-ID="" tvg-name="BLACK DIAMOND" group-title="MOVIE",BLACK DIAMOND
+
 http://lihattv.com/?play=43212
+
 #EXTINF:-1 tvg-ID="" tvg-name="GOLD DIAMONS" group-title="MOVIE",GOLD DIAMOND
+
 http://lihattv.com/?play=43221
+
 #EXTINF:-1 tvg-ID="" tvg-name="AVAVA DIAMOND" group-title="MOVIE",AVAVA DIAMOND
+
 http://lihattv.com/?play=43218
+
 #EXTINF:-1 tvg-ID="" tvg-name="RED DIAMOND" group-title="MOVIE",RED DIAMOND
+
 http://lihattv.com/?play=43224
+
 #EXTINF:-1 tvg-ID="" tvg-name="KOREA DRAMA" group-title="MOVIE",KOREA DRAMA
+
 http://lihattv.com/?play=43420
+
 #EXTINF:-1 tvg-ID="" tvg-name="K+" group-title="MOVIE",K+
+
 http://lihattv.com/?play=43343
+
 #EXTINF:-1 tvg-ID="" tvg-name="V CHANNEL" group-title="MOVIE",V CHANNEL
+
 http://lihattv.com/?play=43419
+
 #EXTINF:-1 tvg-ID="" tvg-name="THRILL" group-title="MOVIE",THRILL
+
 http://lihattv.com/?play=43415
+
 #EXTINF:-1 tvg-ID="" tvg-name="CELESTRIAL MOVIE" group-title="MOVIE",CELESTRIAL MOVIE
+
 http://lihattv.com/?play=43414
+
 #EXTINF:-1 tvg-ID="" tvg-name="ZEE BIOSKOP" group-title="MOVIE",ZEE BISOKOP
+
 http://lihattv.com/?play=43413
+
 #EXTINF:-1 tvg-ID="" tvg-name="AVAVA BOLYWOOD" group-title="MOVIE",AVAVA BOLYWOOD
+
 http://lihattv.com/?play=43208
+
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" group-title="MOVIE",FOX
+
 http://lihattv.com/?play=43346
 
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" group-title="NATURE",NATIONAL GEOGRAPHIC
+
 http://103.242.13.90:5555/udp/239.4.1.61:10000
+
 #EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" group-title="NATURE",NAT GEO WILD
+
 http://103.242.13.90:5555/udp/239.4.1.62:10000
+
 #EXTINF:-1 tvg-ID="" tvg-name="CGTN DOCUMENTARY" group-title="NATURE",CGTN DOCUMENTARY
+
 http://lihattv.com/?play=43404
+
 #EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY" group-title="NATURE",DISCOVERY WORLD HD
+
 http://103.242.13.90:5555/udp/239.4.1.20:10000
 
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="SAUDI TV" group-title="LAINNYA",SAUDI TV
+
 http://lihattv.com/?play=43364
+
 #EXTINF:-1 tvg-ID="" tvg-name="CAPITAL TV" group-title="LAINNYA",CAPITAL TV
+
 http://lihattv.com/?play=43370
+
 #EXTINF:-1 tvg-ID="" tvg-name="DW TV" group-title="LAINNYA",DW TV
+
 http://lihattv.com/?play=43372
+
 #EXTINF:-1 tvg-ID="" tvg-name="ALJAZERA" group-title="LAINNYA",ALJAZERA
+
 http://lihattv.com/?play=43388
+
 #EXTINF:-1 tvg-ID="" tvg-name="KIDS TV" group-title="LAINNYA",KIDS TV
+
 http://lihattv.com/?play=43215
+
 #EXTINF:-1 tvg-ID="" tvg-name="STV4" group-title="LAINNYA",STV4
+
 http://lihattv.com/?play=43248
+
 #EXTINF:-1 tvg-ID="" tvg-name="ASTRO AWANI" group-title="LAINNYA",ASTRO AWANI
+
 http://lihattv.com/?play=43295
+
 #EXTINF:-1 tvg-ID="" tvg-name="TV9" group-title="LAINNYA",TV9
+
 http://lihattv.com/?play=43128
+
 #EXTINF:-1 tvg-ID="" tvg-name="CCTV4" group-title="LAINNYA",CCTV4
+
 http://lihattv.com/?play=43403
+
 #EXTINF:-1 tvg-ID="" tvg-name="TV5MONDE" group-title="LAINNYA",TV5_MONDE
+
 http://lihattv.com/?play=43408
+
 #EXTINF:-1 tvg-ID="" tvg-name="TV3" group-title="LAINNYA",TV3 Asia
+
 http://103.242.13.90:5555/udp/239.4.1.214:10000
 
