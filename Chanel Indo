@@ -74,36 +74,14 @@ http://lihattv.com/?play=43394
 #EXTINF:-1,Suluk® → THE INDONESIA CHANNEL
 http://lihattv.com/?play=43307
 
-#EXTINF:-1,Suluk® → BeIN MOVIES 1HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2388.ts
-#EXTINF:-1,Suluk® → BeIN MOVIES 2HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2459.ts
-#EXTINF:-1,Suluk® → BeIN MOVIES 3HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2617.ts
-#EXTINF:-1,Suluk® → BeIN MOVIES 4HD
-http://www.zeebra.tv:8000/live/Next88/Next88/2835.ts
-
-
-
-#EXTINF:0,SKY NET SPORTS 1 - SKY NET SPORTS 1
-#EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=211&uid=2237&deviceMac=00:1A:79:4A:27:AB
-#EXTINF:0,SKY NET SPORTS 2 - SKY NET SPORTS 2
-#EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=212&uid=2237&deviceMac=00:1A:79:4A:27:AB
-#EXTINF:0,SKY NET SPORTS 3 - SKY NET SPORTS 3
-#EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=213&uid=2237&deviceMac=00:1A:79:4A:27:AB
-#EXTINF:0,SKY NET SPORTS 4 - SKY NET SPORTS 4
-#EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=214&uid=2237&deviceMac=00:1A:79:4A:27:AB
-#EXTINF:0,SKY NET SPORTS 5 - SKY NET SPORTS 5
-#EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=215&uid=2237&deviceMac=00:1A:79:4A:27:AB
-#EXTINF:0,SKY NET SPORTS 6 - SKY NET SPORTS 6
-#EXTVLCOPT:network-caching=1000
-http://163.172.105.25:80/live?channelId=216&uid=2237&deviceMac=00:1A:79:4A:27:AB
-
+#EXTINF:-1,Suluk® → RTM 1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,Suluk® → RTM 2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,Suluk® → ASTRO SPORT
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1,Suluk® → ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1,Suluk® → MYTV
 http://103.242.13.90:5555/udp/239.4.1.56:10000
 #EXTINF:-1,Suluk® → CTN
@@ -112,10 +90,7 @@ http://103.242.13.90:5555/udp/239.4.1.57:10000
 http://103.242.13.90:5555/udp/239.4.1.55:10000
 #EXTINF:-1,Suluk® → IRIB VARZESH
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1,Suluk® → ASTRO SPORT
-http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1,Suluk® → ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
 #EXTINF:-1,Suluk® → True Vision
 http://103.242.13.90:5555/udp/239.4.1.149:10000
 #EXTINF:-1,Suluk® → FOX SPORT
@@ -185,16 +160,7 @@ http://lihattv.com/?play=43404
 #EXTINF:-1,Suluk® → DISCOVERY WORLD HD
 http://103.242.13.90:5555/udp/239.4.1.20:10000
 
-#EXTINF:-1,Suluk® → SAUDI TV
-http://lihattv.com/?play=43364
-#EXTINF:-1,Suluk® → CAPITAL TV
-http://lihattv.com/?play=43370
-#EXTINF:-1,Suluk® → DW TV
-http://lihattv.com/?play=43372
-#EXTINF:-1,Suluk® → ALJAZERA
-http://lihattv.com/?play=43388
-#EXTINF:-1,Suluk® → KIDS TV
-http://lihattv.com/?play=43215
+
 #EXTINF:-1,Suluk® → ASTRO AWANI
 http://lihattv.com/?play=43295
 #EXTINF:-1,Suluk® → TV9
